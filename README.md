@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- ⚡ Fun fact - **Life begin after coffee**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/Pinto#3970" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pinto#3970" height="30" width="40" /></a>
